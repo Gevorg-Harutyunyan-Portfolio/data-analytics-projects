@@ -1,0 +1,19 @@
+# Ignore data files
+*.csv
+*.xlsx
+*.json
+
+# Ignore virtual environment (Python)
+venv/
+.venv/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files (Mac, Windows)
+.DS_Store
+Thumbs.db
+
+# Ignore logs and cache
+*.log
+__pycache__/
